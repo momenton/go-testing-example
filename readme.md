@@ -10,6 +10,10 @@ $ go run src/app/main.go
 ```
 $ go test -v ./...
 ```
+with coverage
+```
+$ go test -v -cover ./...
+```
 
 # Further references:
 
