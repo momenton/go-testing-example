@@ -3,7 +3,7 @@ package plus_test
 import (
 	"testing"
 
-	"github.com/runnerdave/testing-example/src/plus"
+	"github.com/runnerdave/go-testing-example/src/plus"
 )
 
 func TestSum(t *testing.T) {

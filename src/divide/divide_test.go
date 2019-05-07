@@ -3,7 +3,7 @@ package divide_test
 import (
 	"testing"
 
-	"github.com/runnerdave/testing-example/src/divide"
+	"github.com/runnerdave/go-testing-example/src/divide"
 )
 
 func TestDivide(t *testing.T) {

@@ -3,7 +3,7 @@ package minus_test
 import (
 	"testing"
 
-	"github.com/runnerdave/testing-example/src/minus"
+	"github.com/runnerdave/go-testing-example/src/minus"
 )
 
 func TestMinus(t *testing.T) {

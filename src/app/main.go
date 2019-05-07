@@ -3,10 +3,10 @@ package main
 import (
 	"fmt"
 
-	"github.com/runnerdave/testing-example/src/divide"
-	"github.com/runnerdave/testing-example/src/minus"
-	"github.com/runnerdave/testing-example/src/multiply"
-	"github.com/runnerdave/testing-example/src/plus"
+	"github.com/runnerdave/go-testing-example/src/divide"
+	"github.com/runnerdave/go-testing-example/src/minus"
+	"github.com/runnerdave/go-testing-example/src/multiply"
+	"github.com/runnerdave/go-testing-example/src/plus"
 )
 
 func main() {
